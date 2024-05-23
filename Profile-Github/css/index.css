@@ -1,0 +1,15 @@
+:root{
+    --color-black-principal: #111729; 
+    --color-black-secundario: #20293A;
+    --color-gray-principal: #364153;
+    --color-gray-secundario: #4A5567;
+    --color-letter-white: #CDD5E0;
+    --color-variant-purple: #1D1B48;
+    --color-variant-blue: #3662E3; 
+    --font-family--principal:"Be Vietnam Pro", sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
